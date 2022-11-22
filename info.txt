@@ -1,0 +1,31 @@
+Nesta atividade você deverá criar um projetos React-Native, utilizando o menu de navegação 
+✔️bottom-tabs
+
+Antes de tudo configure seu user do git. Abra o terminal e digite: 
+
+	git config --global user.name "Fulano de Tal"
+	git config --global user.email fulanodetal@exemplo.br
+ 
+
+1) Criando um novo projeto chamado AppIcons
+	expo init AppIcons
+
+2) Entrando no projeto
+	cd AppIcons
+
+3) Instale as bibliotecas necessárias para testar o App no navegador; 
+	npm install react-native-web@~0.18.7 react-dom@18.0.0 @expo/webpack-config@^0.17.0
+
+4) Instalando bibliotecas de suporte à navegação
+	npm install @react-navigation/native
+	npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+5) Instalando a bibliotecas de suporte a navegação bottom-tabs
+	npm install @react-navigation/bottom-tabs
+
+6) Adicionando os components que serão nossas telas de navegação;
+
+
+7) Finalizando base do projeto.
+	git add .
+	git commit -m "Criando base do projeto"
