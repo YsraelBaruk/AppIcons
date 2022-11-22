@@ -4,7 +4,7 @@ import { FontAwesome } from '@expo/vector-icons';
 export default function TelaFontAwesome() {
   return (
     <View style={styles.container}>
-      <Text>FontAwesome</Text>
+      <Text>Font Awesome</Text>
     </View>
   );
 }

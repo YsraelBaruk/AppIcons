@@ -4,7 +4,7 @@ import { SimpleLineIcons } from '@expo/vector-icons';
 export default function TelaSimpleLineIcons() {
   return (
     <View style={styles.container}>
-      <Text>SimpleLineIcons</Text>
+      <Text>Simple Line Icons</Text>
     </View>
   );
 }

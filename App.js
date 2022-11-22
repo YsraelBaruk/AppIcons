@@ -12,9 +12,9 @@ export default function App() {
   return (
     <NavigationContainer>
       <Menu>
-        <ItenMenu name="FontAwesome" component={FontAwesome}/>
+        <ItenMenu name="Font Awesome" component={FontAwesome}/>
         <ItenMenu name="Zocial" component={Zocial}/>
-        <ItenMenu name="SimpleLineIcons" component={SimpleLineIcons}/>
+        <ItenMenu name="Simple Line Icons" component={SimpleLineIcons}/>
       </Menu>
     </NavigationContainer>
   );
