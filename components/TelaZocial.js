@@ -1,7 +1,7 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import { Zocial } from '@expo/vector-icons';
 
-export default function Zocial() {
+export default function TelaZocial() {
   return (
     <View style={styles.container}>
       <Text>Zocial</Text>

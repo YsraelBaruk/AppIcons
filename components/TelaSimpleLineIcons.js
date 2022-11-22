@@ -1,7 +1,7 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import { SimpleLineIcons } from '@expo/vector-icons';
 
-export default function SimpleLineIcons() {
+export default function TelaSimpleLineIcons() {
   return (
     <View style={styles.container}>
       <Text>SimpleLineIcons</Text>

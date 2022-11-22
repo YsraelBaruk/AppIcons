@@ -1,9 +1,9 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
-import FontAwesome from "./components/FontAwesome";
-import Zocial from "./components/Zocial";
-import SimpleLineIcons from "./components/SimpleLineIcons";
+import FontAwesome from "./components/TelaFontAwesome";
+import Zocial from "./components/TelaZocial";
+import SimpleLineIcons from "./components/TelaSimpleLineIcons";
 
 const Menu = createBottomTabNavigator().Navigator;
 const ItenMenu = createBottomTabNavigator().Screen;

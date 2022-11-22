@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from 'react-native';
 import { FontAwesome } from '@expo/vector-icons';
 
-export default function FontAwesome() {
+export default function TelaFontAwesome() {
   return (
     <View style={styles.container}>
       <Text>FontAwesome</Text>
